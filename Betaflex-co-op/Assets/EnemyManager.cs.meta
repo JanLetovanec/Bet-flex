@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 989314f45b81ad540b5a5177d0cea088
+timeCreated: 1508185667
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myenemy: {fileID: 125788, guid: 31a453ce43ce0114a97b809c5a4f10cb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2cf6c7b2a4b2a25409bbfbc9c61277e9
+timeCreated: 1507987065
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mybullet: {fileID: 121786, guid: 856a088f96283eb4bb6b2e558c62b4ef, type: 2}
+  - myChargedBullet: {fileID: 1044696528185680, guid: 75c0e14003557d740b7d04fdf3dbefde,
+      type: 2}
+  - guiobj: {fileID: 182534, guid: 930b80aac9aa3d04b87a9be5d9f4299c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
